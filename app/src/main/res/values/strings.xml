@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="camera_denied">Camera permission denied. Cannot capture photos.</string>
+    <string name="camera_permission_title">Camera Permission</string>
+    <string name="camera_permission_message">This app requires access to your camera to capture photos.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="permission_deny">Deny</string>
+    <string name="storage_permission_message">This app requires read storage permission to function properly.</string>
+    <string name="about_us_message">Welcome to our Android Gallery App! We are deeply committed to delivering an unparalleled, immersive visual experience that transcends the ordinary, enabling you to exhibit and curate your cherished memories with utmost sophistication. Our app is meticulously engineered with a resolute focus on user-centric design principles, boasting a sleek and intuitively fluid interface that effortlessly facilitates seamless navigation through your expansive reservoir of captivating photographs and videos. Equipped with state-of-the-art features such as intelligent categorization, cutting-edge facial recognition algorithms, and robust search capabilities augmented by artificial intelligence, our app empowers you to embark on an extraordinary journey of effortless discovery and reliving of your most treasured moments. Our unwavering dedication to innovation ensures that we remain at the vanguard of emerging trends, continually introducing ingenious functionalities that elevate your viewing experience to unprecedented heights. Whether you are an avid enthusiast or an accomplished connoisseur of visual artistry, our Android Gallery App serves as the quintessential companion, seamlessly amalgamating preservation and effortless sharing of your captivating visual narratives. Embark on this exhilarating odyssey with us, as we unlock a boundless realm of unparalleled creativity, evocative nostalgia, and invigorating inspiration, all exquisitely within your grasp.</string>
+    <string name="feedback_message">We value your feedback and strive to continuously enhance your experience with our Android Gallery App. We sincerely appreciate your time and effort in sharing your thoughts, as it allows us to better understand your needs and expectations. Your feedback serves as a catalyst for our ongoing pursuit of excellence, enabling us to refine and optimize our app\'s features and functionalities. We eagerly welcome both positive feedback that motivates us to maintain our high standards and constructive criticism that helps us identify areas for improvement. Your input is invaluable in shaping the future of our app, ensuring that it remains at the forefront of innovation while catering to your unique preferences. Thank you for being a part of our journey, and we look forward to incorporating your valuable feedback as we continue to evolve and provide you with an exceptional Android Gallery App experience.</string>
+    <string name="album">Album</string>
+    <string name="favourite">Favourite</string>
+    <string name="category">Category</string>
+    <string name="video">Video</string>
+    <string name="google_photo">Google Photos</string>
+    <string name="one_drive">One Drive</string>
+    <string name="settings">Settings</string>
+    <string name="about_us">About Us</string>
+    <string name="feedback">Feedback</string>
+    <string name="nature">Nature</string>
+    <string name="travel">Travel</string>
+    <string name="pets">Pets</string>
+    <string name="visit">Visit</string>
+    <string name="events">Events</string>
+    <string name="food">Food</string>
+    <string name="sports">Sports</string>
+</resources>
